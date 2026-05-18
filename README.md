@@ -12,6 +12,8 @@ Mateus Pereira Alves (1° AESP)
 
 GitHub: https://github.com/rbarroslucas/ct213_exam
 
+Report: grupo6_exame.pdf 
+
 ## Project goal
 
 This project aims to solve the Lunar Lander environment with DQN, Double DQN and Dueling DQN algorithms. The project's paper can be found between the files.
