@@ -1,5 +1,7 @@
 # Lunar Lander - CT213 Exam
 
+<video src="Safe Landing.mp4" controls width="100%"></video>
+
 This project uses the Lunar Lander environment from OpenAI's Gym library.
 
 Group:
